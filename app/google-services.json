@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391307420051",
+    "project_id": "campus-quora-22bbc",
+    "storage_bucket": "campus-quora-22bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391307420051:android:8c315a956cf0e792978866",
+        "android_client_info": {
+          "package_name": "com.android.campusquora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391307420051-2lp6lsdutm5ngcp6oavopu80qc8krmav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABDlZCpsJ7AKXnkUAYml0Ny8j7RNxOcwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391307420051-2lp6lsdutm5ngcp6oavopu80qc8krmav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
